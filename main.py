@@ -14,3 +14,4 @@ def catch_all(path):
     logging.log(msg=message, level=logging.DEBUG)
 
     return 'You want path: %s' % path
+
